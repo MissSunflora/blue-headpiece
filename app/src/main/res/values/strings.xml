@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1_DPS924_NesaBertanico</string>
+    <string name="username_hint">USERNAME</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="lab15">Lab1(5%)</string>
+    <string name="lab1">Lab 1</string>
+    <string name="humber">HUMBER</string>
+    <string name="york">YORK</string>
+    <string name="ryerson">RYERSON</string>
+    <string name="seneca">SENECA</string>
+
+
+</resources>
